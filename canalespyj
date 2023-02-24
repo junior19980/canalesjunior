@@ -2,5 +2,6 @@
 #EXTM3U 
 
 
-#EXTINF:-1 Bein Sport
-http://pe-p1-p-e-xm1.cdnhttp://37.221.121.137:8585/hls/ntvspor/index.m3u8
+#EXTINF:-1 HBO Family
+
+https://live.embedflix.net/p2p/hbofamily/chunks.m3u8

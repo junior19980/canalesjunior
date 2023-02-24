@@ -2,5 +2,5 @@
 #EXTM3U 
 #EXTINF:
 https://live.embedflix.net/p2p/hbofamily/chunks.m3u8
-#EXTNF:-1, snt
-#EXTNF:-1,https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
+#EXTNF:
+https://d4xunn272arip.cloudfront.net/hls/snt.m3u8

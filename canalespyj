@@ -2,6 +2,6 @@
 #EXTM3U 
 #EXTINF:-1 HBO Family
 https://live.embedflix.net/p2p/hbofamily/chunks.m3u8
-#EXTNF:-1,tvg-logo="" goup-title,"TV/SERIES" HBO 
-https://live.embedflix.net/p2p/hbofamily/chunks.m3u8
 #EXTNF:-1,tvg-logo="https://live.embedflix.net/p2p/hbofamily/chunks.m3u8
+
+#EXTNF:-1,https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
